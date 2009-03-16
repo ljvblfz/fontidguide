@@ -31,4 +31,33 @@ Added:
   * stempel schneidler
   * Today Sans 
   * Walbaum
+Dropped:
+  * Lucida Bright
 ----
+Version 20090308
+
+Added:
+  * Alba
+  * Dom Casual
+  * Lithod
+  * Ondine
+----
+Version 20090305
+
+Added:
+  * Blender
+  * Cholla Sans
+  * Cholla Slab
+  * Compatil Text
+  * Joanna
+  * Lucida Handwriting
+  * Mentor
+  * Ronda
+----
+Version 20090226
+
+Added:
+  * Archer
+  * Bliss
+Dropped
+  * Airstrip Four

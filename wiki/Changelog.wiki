@@ -7,7 +7,7 @@ Added:
   * Amplitude
   * Antique Olive
   * Arnhem
-  * Base Twelve sans/serif
+  * Base Twelve serif
   * Bell Centennial
   * Bell Gothic
   * Blur

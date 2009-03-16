@@ -28,7 +28,7 @@ Added:
   * Serifa
   * Snell Roundhand
   * Spectrum
-  * stempel schneidler
+  * Stempel Schneidler
   * Today Sans 
   * Walbaum
 Dropped:

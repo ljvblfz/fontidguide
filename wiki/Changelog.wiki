@@ -3,24 +3,24 @@
 Version 20090322
 
 Added:
-* Sari
-* Serpentine
-* Chancery
-* Profile Pro
-* Collis
-* ITC Quay Sans
-* Brazilia
+ * Sari
+ * Serpentine
+ * Chancery
+ * Profile Pro
+ * Collis
+ * ITC Quay Sans
+ * Brazilia
 
 Changed:
-* Base 12 serif (DTL Kernmaster'ed)
-* Whitney OT (Original)
-* Lexicon HMO version
-* Arnhem (wrong kerning)
-* Blender (features)
-* Frutiger Serif (Cap "S" too close to edge, drop "J")
-* Maiandra (italic?)
-* Today Sans
-* Uncial
+ * Base 12 serif (DTL Kernmaster'ed)
+ * Whitney OT (Original)
+ * Lexicon HMO version
+ * Arnhem (wrong kerning)
+ * Blender (features)
+ * Frutiger Serif (Cap "S" too close to edge, drop "J")
+ * Maiandra (italic?)
+ * Today Sans
+ * Uncial
 ----
 Version 20090314
 

@@ -1,5 +1,24 @@
 #labels Featured
 ----
+Version 20090406
+Added:
+    * Alinea
+    * Quadrata
+    * Eras
+    * Cochin
+    * DIN Mittelschrift (Din 1451)
+    * Din Neuzeit Grotesk (Din 30640)
+    * Computer Modern typewriter
+    * Sutro
+    * Rotis semi serif
+    * Thesis Mix
+Changed
+    * Corpid HMO replaced Corpid Office
+    * Thesis sans (changed back to HMO)
+    * Agenda: add "t"
+    * Cholla Sans OT replaced Cholla Sans
+    * Centaur: add italic glyphs (as Arrighi)
+----
 Version 20090322
 
 Added:

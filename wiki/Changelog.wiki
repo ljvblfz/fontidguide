@@ -3,6 +3,9 @@
 Version 20090406
 
 Added:
+    * Flora
+    * Praxis
+    * Demos
     * Alinea
     * Quadrata
     * Eras

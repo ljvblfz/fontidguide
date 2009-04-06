@@ -6,7 +6,7 @@ Added:
     * Alinea
     * Quadrata
     * Eras
-    * Cochin
+    * Cochin (with Nicolas as italic)
     * DIN Mittelschrift (Din 1451)
     * Din Neuzeit Grotesk (Din 30640)
     * Computer Modern typewriter

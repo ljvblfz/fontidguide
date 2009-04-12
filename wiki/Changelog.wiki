@@ -1,5 +1,25 @@
 #labels Featured
 ----
+Version 20090412
+
+Added:
+     * Albertina (w/ italic)
+     * Alcuin
+     * Berkeley (w/ italic)
+     * Berling (w/ italic)
+     * Bulmer (w/ italic)
+     * californian (w/ italic)
+     * Caspari (w/ italic)
+     * Charlotte (w/ italic)
+     * Comenius (w/ italic)
+     * Dante (w/ italic)
+     * Deepdene (w/ italic)
+     * Diotima (w/ italic)
+     * Documenta (w/ italic)
+     * Laudatio (w/ italic)
+     * Museo
+     * Shannon
+----
 Version 20090406
 
 Added:

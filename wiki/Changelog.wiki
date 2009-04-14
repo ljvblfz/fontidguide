@@ -2,6 +2,8 @@
 ----
 Version 20090414
 
+Deleted some glyphs to reduce overfull hbox
+
 Added:
      * Alber (w/ italic)
      * Alternate Gothic
@@ -24,7 +26,7 @@ Added:
      * Trump Mediaeval Office (w/ italic)
      * Vista Sans
 
-Deleted some glyphs to reduce overfull hbox
+
 ----
 Version 20090412
 

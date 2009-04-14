@@ -3,26 +3,26 @@
 Version 20090414
 
 Added:
-	 * Alber
-	 * Alternate Gothic
-	 * Aptifer
-	 * Dederon serif/sans italic
-	 * Depot
-	 * Estilo (extract)
-	 * Freight Sans
-	 * Insignia
-	 * ITC Conduit
-	 * Karmina
-	 * Leitura
-	 * Magistral
-	 * Neuzeit Office
-	 * Precious Sans/Serif
-	 * Proxima Nova
-	 * Stalemate
-	 * Times Europa Office
-	 * Trump Gothic
-	 * Trump Mediaeval Office
-	 * Vista Sans
+     * Alber (w/ italic)
+     * Alternate Gothic
+     * Aptifer (w/ italic)
+     * Dederon serif/sans  (w/ italic)
+     * Depot (w/ italic)
+     * Estilo Text (extract) (w/ italic)
+     * Freight Sans
+     * Insignia
+     * ITC Conduit
+     * Karmina (w/ italic)
+     * Leitura
+     * Magistral
+     * Neuzeit Office
+     * Precious Sans/Serif (w/ italic)
+     * Proxima Nova (w/ italic)
+     * Stalemate (w/ italic)
+     * Times Europa Office (w/ italic)
+     * Trump Gothic
+     * Trump Mediaeval Office (w/ italic)
+     * Vista Sans
 
 Deleted some glyphs to reduce overfull hbox
 ----

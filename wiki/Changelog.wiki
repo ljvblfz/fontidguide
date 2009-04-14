@@ -1,5 +1,31 @@
 #labels Featured
 ----
+Version 20090414
+
+Added:
+	 * Alber
+	 * Alternate Gothic
+	 * Aptifer
+	 * Dederon serif/sans italic
+	 * Depot
+	 * Estilo (extract)
+	 * Freight Sans
+	 * Insignia
+	 * ITC Conduit
+	 * Karmina
+	 * Leitura
+	 * Magistral
+	 * Neuzeit Office
+	 * Precious Sans/Serif
+	 * Proxima Nova
+	 * Stalemate
+	 * Times Europa Office
+	 * Trump Gothic
+	 * Trump Mediaeval Office
+	 * Vista Sans
+
+Deleted some glyphs to reduce overfull hbox
+----
 Version 20090412
 
 Added:

@@ -3,6 +3,7 @@
 Version 20090414
 
 Deleted some glyphs to reduce overfull hbox
+
 Changed some glyph combinations to avoid rare kerning pairs (e.g., "gj")
 
 Added:

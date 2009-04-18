@@ -1,5 +1,38 @@
 #labels Featured
 ----
+Version 20090418
+
+Added:
+
+    * Amasis (w/ italic)
+    * Electra (w/ italic)
+    * Elzevir (w/ italic)
+    * Esprit (w/ italic)
+    * Fairfield (w/ italic)
+    * Figural (w/ italic)
+    * Haarlemmer (w/ italic)
+    * Hollander (w/ italic)
+    * Jannon (w/ italic)
+    * Journal (w/ italic)
+    * Kennerley (w/ italic)
+    * !LinoLetter (w/ italic)
+    * Mendoza (w/ italic)
+    * Meridien (w/ italic)
+    * Nofret (w/ italic)
+    * Photina (w/ italic)
+    * Poetica
+    * Poliphilus & Blado
+    * Pontifex (w/ italic)
+    * Silica
+    * Trajanus (w/ italic)
+    * Trump Mediaeval (w/ italic)
+    * Van Dijck (w/ italic)
+    * Veljovic (w/ italic)
+
+Dropped:
+
+    * Trump Mediaeval Office (Replaced by Trump Mediaeval with Smallcaps and Text figures
+----
 Version 20090414
 
 Deleted some glyphs to reduce overfull hbox

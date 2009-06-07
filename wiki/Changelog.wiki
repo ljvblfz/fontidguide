@@ -1,5 +1,26 @@
 #labels Featured
 ----
+Version 20090607
+
+Changed:
+
+    * Californian: LTC Californian Pro w/ italic
+    * Whitney: Whitney Pro w/ italic
+Added:
+
+    * Beta Sans
+    * Libra
+    * Plexes w/ italic
+    * Casablanca (Red Rooster)
+    * Hermes
+    * Vivaldi Italic (URW)
+    * Rotis Semi Sans
+    * Mercurius
+    * Delta BQ
+    * Alber w/ italic
+    * Antenna
+    * Fishmonger w/ italic
+----
 Version 20090418
 
 Added:

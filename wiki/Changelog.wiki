@@ -8,7 +8,7 @@ Changed:
 Added:
     * Din Text Pro W/ Ita
     * Lucida Casual w/ ita
-    * Fontin W/ Ita
+    * Fontin Sans W/ Ita
     * Akkurat w/ ita
 Added Italics to:
 

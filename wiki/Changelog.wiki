@@ -1,5 +1,41 @@
 #labels Featured
 ----
+Version 20090614
+Changed:
+    * Twice Alber
+    * Californian old
+
+Added:
+    * Din Text Pro W/ Ita
+
+    * Lucida Casual w/ ita
+
+    * Fontin W/ Ita
+    * Akkurat w/ ita
+Added Italics to:
+
+    * Scala Serif
+    * Meta
+
+    * Meta Serif
+
+    * Dax
+
+    * Hoefler Text
+    * Syntax Serif
+
+    * Times
+
+    * Utopia
+
+    * Walbaum
+
+    * Warnock
+
+    * Sabon
+
+    * Scotch
+----
 Version 20090607
 
 Changed:

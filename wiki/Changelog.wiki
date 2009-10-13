@@ -1,5 +1,11 @@
 #labels Featured
 ----
+Version 20091013
+Major update : Add comprehensive indexes (Classification, Glyph and Highlight)
+Changed:
+    * Shorter and better ALFAZED pangram : Ajax, Be Careful Driving Elephants For Game Hunters Into Jaguar Killing. Liquid Mahouts Never Offer Prize Quickly. Research Shows They Usually Vomit Wildly X-terminating Young Zebras.
+
+----
 Version 20090614
 Changed:
     * Twice Alber

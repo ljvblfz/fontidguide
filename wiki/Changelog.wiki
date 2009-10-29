@@ -1,6 +1,7 @@
 #labels Featured
 ----
 Version 20091013
+
 Major update : Add comprehensive indexes (Classification, Glyph and Highlight)
 
 Changed:

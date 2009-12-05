@@ -4,34 +4,20 @@ Version 20091205
 
 Added:
     * Harlow solid
-
     * Arab Brushstroke
-
     * Calibri W/ Ita
-    * Minister
- W/ Ita
-    * Charter
- W/ Ita
-    * Rongel HMO
- W/ Ita
+    * Minister W/ Ita
+    * Charter W/ Ita
+    * Rongel HMO W/ Ita
     * Tartine script
-
-    * Kievit
- W/ Ita
+    * Kievit W/ Ita
     * Caflisch Script
-
     * Choc (missing some ponctuations)
-
     * Stencil
-
     * Hobo
-
     * University Roman
-
     * Itc blair
-
     * Forte
-
     * Dreamland
 
 ----

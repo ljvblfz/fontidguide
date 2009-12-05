@@ -1,5 +1,40 @@
 #labels Featured
 ----
+Version 20091205
+
+Added:
+    * Harlow solid
+
+    * Arab Brushstroke
+
+    * Calibri W/ Ita
+    * Minister
+ W/ Ita
+    * Charter
+ W/ Ita
+    * Rongel HMO
+ W/ Ita
+    * Tartine script
+
+    * Kievit
+ W/ Ita
+    * Caflisch Script
+
+    * Choc (missing some ponctuations)
+
+    * Stencil
+
+    * Hobo
+
+    * University Roman
+
+    * Itc blair
+
+    * Forte
+
+    * Dreamland
+
+----
 Version 20091013
 
 Major update : Add comprehensive indexes (Classification, Glyph and Highlight)
@@ -18,7 +53,7 @@ Changed:
 
 Added:
     * Din Text Pro W/ Ita
-    * Lucida Casual w/ ita
+    * Lucida Casual W/ ita
     * Fontin Sans W/ Ita
     * Akkurat w/ ita
 Added Italics to:

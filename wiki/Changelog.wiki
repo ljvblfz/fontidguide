@@ -1,5 +1,9 @@
 #labels Featured
 ----
+Version 20091210
+
+Indexing progress : *Done!*
+----
 Version 20091205
 
 Added:
@@ -19,7 +23,7 @@ Added:
     * Itc blair
     * Forte
     * Dreamland
-Index progress : Myriad
+Indexing progress : Myriad
 ----
 Version 20091013
 

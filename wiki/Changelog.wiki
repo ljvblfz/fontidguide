@@ -1,5 +1,9 @@
 #labels Featured
 ----
+Version 20091212
+
+Cover page added
+----
 Version 20091210
 
 Indexing progress : *Done!*

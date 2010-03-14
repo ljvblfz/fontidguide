@@ -1,5 +1,10 @@
 #labels Featured
 ----
+Version 20100303
+
+Added makeindex *.ist file to section and bookmark those lengthy (and otherwise useless!) index entries.
+
+----
 Version 20091212
 
 Cover page added

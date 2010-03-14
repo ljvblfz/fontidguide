@@ -4,6 +4,10 @@ Version 20100303
 
 Added makeindex `*`.ist file to section and bookmark those lengthy (and otherwise useless!) index entries.
 
+{{{
+item_0 "\n  \\item \\subsection{"
+item_x1 "}\n    \\subitem "
+}}}
 ----
 Version 20091212
 

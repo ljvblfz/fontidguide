@@ -1,4 +1,20 @@
 #labels Featured
+Version 20100817
+
+Added:
+    * Merlo (kallisto hmo)
+    * Arnold Boecklin
+    * Gillies
+    * Cymbeline
+    * Neuropol
+    * Relato Serif/Sans
+    * Whitman
+    * Reliq
+    * Parisian
+    * Graphite
+
+Changed:
+* Lisboa Sans (Pro)
 ----
 Version 20100324
 

@@ -1,4 +1,38 @@
 #labels Featured
+Version 20100819
+
+Added:
+    * Relato Serif
+    * Stempel Garamond
+(Dark print types)
+    * Acanthus (FF)
+    * Athelas
+    * Chaparral
+    * Chronicle Text
+    * Clifford (FF)
+    * Cycles (Stone)
+    * Dolly
+    * Fabiol
+    * Feijoa
+    * Freight Text
+    * Gentium Book Basic
+    * Giovanni (ITC)
+    * Iowan Oldstyle
+    * Magma (Stone)
+    * Maiola (FF)
+    * Mercury Text
+    * Monticello
+    * Musee
+    * MVB Verdigris
+    * Paperback
+    * Renard
+    * Tisa (FF)
+
+
+Changed:
+    * Walbaum Text Pro
+
+----
 Version 20100817
 
 Added:
@@ -7,7 +41,7 @@ Added:
     * Gillies
     * Cymbeline
     * Neuropol
-    * Relato Serif/Sans
+    * Relato Sans
     * Whitman
     * Reliq
     * Parisian

@@ -19,7 +19,6 @@ Added:
     * Giovanni (ITC)
     * Iowan Oldstyle
     * Magma (Stone)
-    * Maiola (FF)
     * Mercury Text
     * Monticello
     * Musee

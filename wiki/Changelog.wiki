@@ -1,4 +1,18 @@
 #labels Featured
+Version 20100824
+
+Some similar index entries merged 
+
+Added: 
+    * Amalia
+    * Beaufort
+    * Brioni
+    * Maiola (FF)
+    * Nexus
+    * Tempera Biblio
+    * Vendetta
+
+----
 Version 20100819
 
 Added:

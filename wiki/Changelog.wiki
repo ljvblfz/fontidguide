@@ -3,7 +3,7 @@ Version 20100824
 
 Some similar index entries merged 
 
-Added: 
+Added (Dark print types):
     * Amalia
     * Beaufort
     * Brioni

@@ -45,6 +45,7 @@ Added:
 Changed:
     * Walbaum Text Pro
 
+*IMPORTANT* : The table of contents is moved to the end in order to ensure correct hyperlinks on those indexes.
 ----
 Version 20100817
 

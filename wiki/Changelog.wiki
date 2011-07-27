@@ -1,4 +1,19 @@
 #labels Featured
+Version 20110727
+
+New cover
+
+Upgrade to Texlive 2011, about 30% reduction of PDF file size.
+
+Added:
+    * ITC Edwardian script
+    * Giddy up
+    * Delphin
+    * Pristina
+    * Deva Ideal
+    * Adelle
+
+----
 Version 20100824
 
 Some similar index entries merged 

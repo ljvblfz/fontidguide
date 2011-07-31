@@ -1,4 +1,39 @@
 #labels Featured
+Version 20110731
+
+Added:
+    * Benton Sans FB
+    * Candy script
+    * Commercial Script
+    * Coronet
+    * De Vinne BT
+    * Diavlo
+    * Farnham
+    * FF Clan
+    * FF Din round pro
+    * French Script
+    * ISO norm
+    * Linoscript
+    * Linotext
+    * lubalin graph
+    * Novia
+    * Pisa
+    * susa
+    * Tisa OT
+    * Unit Pro
+    * Unit slab Pro
+
+Updated:
+    * Cocon OT
+    * Didot Regular and italic, do not use bold
+    * Frutiger next Pro
+    * Hoefler text ot
+    * Nexus OT
+    * Quadraat (remove "serif")
+    * Scala OT (remove "serif")
+    * Tartine Script OT
+
+----
 Version 20110727
 
 New cover

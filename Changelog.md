@@ -1,0 +1,447 @@
+Version 20110731
+
+Added:
+  * Benton Sans FB
+  * Candy script
+  * Commercial Script
+  * Coronet
+  * De Vinne BT
+  * Diavlo
+  * Farnham
+  * FF Clan
+  * FF Din round pro
+  * French Script
+  * ISO norm
+  * Linoscript
+  * Linotext
+  * lubalin graph
+  * Novia
+  * Pisa
+  * susa
+  * Tisa OT
+  * Unit Pro
+  * Unit slab Pro
+
+Updated:
+  * Cocon OT
+  * Didot Regular and italic, do not use bold
+  * Frutiger next Pro
+  * Hoefler text ot
+  * Nexus OT
+  * Quadraat (remove "serif")
+  * Scala OT (remove "serif")
+  * Tartine Script OT
+
+
+---
+
+Version 20110727
+
+New cover
+
+Upgrade to Texlive 2011, about 30% reduction of PDF file size.
+
+Added:
+  * ITC Edwardian script
+  * Giddy up
+  * Delphin
+  * Pristina
+  * Deva Ideal
+  * Adelle
+
+
+---
+
+Version 20100824
+
+Some similar index entries merged
+
+Added (Dark print types):
+  * Amalia
+  * Beaufort
+  * Brioni
+  * Maiola (FF)
+  * Nexus
+  * Tempera Biblio
+  * Vendetta
+
+
+---
+
+Version 20100819
+
+Added:
+  * Relato Serif
+  * Stempel Garamond
+(Dark print types)
+  * Acanthus (FF)
+  * Athelas
+  * Chaparral
+  * Chronicle Text
+  * Clifford (FF)
+  * Cycles (Stone)
+  * Dolly
+  * Fabiol
+  * Feijoa
+  * Freight Text
+  * Gentium Book Basic
+  * Giovanni (ITC)
+  * Iowan Oldstyle
+  * Magma (Stone)
+  * Mercury Text
+  * Monticello
+  * Musee
+  * MVB Verdigris
+  * Paperback
+  * Renard
+  * Tisa (FF)
+
+
+Changed:
+  * Walbaum Text Pro
+
+**IMPORTANT** : The table of contents is moved to the end in order to ensure correct hyperlinks on those indexes.
+
+---
+
+Version 20100817
+
+Added:
+  * Merlo (kallisto hmo)
+  * Arnold Boecklin
+  * Gillies
+  * Cymbeline
+  * Neuropol
+  * Relato Sans
+  * Whitman
+  * Reliq
+  * Parisian
+  * Graphite
+
+Changed:
+  * Lisboa Sans (Pro)
+
+
+---
+
+Version 20100324
+
+Fixed page links in index entries
+
+
+---
+
+Version 20100303
+
+Added makeindex `*`.ist file to section and bookmark those lengthy (and otherwise useless!) index entries.
+
+```
+item_0 "\n  \\item \\subsection{"
+item_x1 "}\n    \\subitem "
+```
+
+---
+
+Version 20091212
+
+Cover page added
+
+---
+
+Version 20091210
+
+Indexing progress : **Done!**
+
+---
+
+Version 20091205
+
+Added:
+  * Harlow solid
+  * Arab Brushstroke
+  * Calibri W/ Ita
+  * Minister W/ Ita
+  * Charter W/ Ita
+  * Rongel HMO W/ Ita
+  * Tartine script
+  * Kievit W/ Ita
+  * Caflisch Script
+  * Choc (missing some ponctuations)
+  * Stencil
+  * Hobo
+  * University Roman
+  * Itc blair
+  * Forte
+  * Dreamland
+Indexing progress : Myriad
+
+---
+
+Version 20091013
+
+Major update : Add comprehensive indexes (Classification, Glyph and Highlight)
+
+Changed:
+  * Shorter and better ALFAZED pangram (slightly modified to contain 26 uppercase and 26 lowercase) :
+
+Ajax, Be Careful Driving Elephants For Game Hunters Into Jaguar Killing. Liquid Mahouts Never Offer Prize Quickly. Research Shows They Usually Vomit Wildly X-terminating Young Zebras.
+
+
+---
+
+Version 20090614
+
+Changed:
+  * Twice Alber
+  * Californian old
+
+Added:
+  * Din Text Pro W/ Ita
+  * Lucida Casual W/ ita
+  * Fontin Sans W/ Ita
+  * Akkurat w/ ita
+Added Italics to:
+
+  * Scala Serif
+  * Meta
+  * Meta Serif
+  * Dax
+  * Hoefler Text
+  * Syntax Serif
+  * Times
+  * Utopia
+  * Walbaum
+  * Warnock
+  * Sabon
+  * Scotch
+
+---
+
+Version 20090607
+
+Changed:
+
+  * Californian: LTC Californian Pro w/ italic
+  * Whitney: Whitney Pro w/ italic
+Added:
+
+  * Beta Sans
+  * Libra
+  * Plexes w/ italic
+  * Casablanca (Red Rooster)
+  * Hermes
+  * Vivaldi Italic (URW)
+  * Rotis Semi Sans
+  * Mercurius
+  * Delta BQ
+  * Alber w/ italic
+  * Antenna
+  * Fishmonger w/ italic
+
+---
+
+Version 20090418
+
+Added:
+
+  * Amasis (w/ italic)
+  * Electra (w/ italic)
+  * Elzevir (w/ italic)
+  * Esprit (w/ italic)
+  * Fairfield (w/ italic)
+  * Figural (w/ italic)
+  * Haarlemmer (w/ italic)
+  * Hollander (w/ italic)
+  * Jannon (w/ italic)
+  * Journal (w/ italic)
+  * Kennerley (w/ italic)
+  * LinoLetter (w/ italic)
+  * Mendoza (w/ italic)
+  * Meridien (w/ italic)
+  * Nofret (w/ italic)
+  * Photina (w/ italic)
+  * Poetica
+  * Poliphilus & Blado
+  * Pontifex (w/ italic)
+  * Silica
+  * Trajanus (w/ italic)
+  * Trump Mediaeval (w/ italic)
+  * Van Dijck (w/ italic)
+  * Veljovic (w/ italic)
+
+Dropped:
+
+  * Trump Mediaeval Office (Replaced by Trump Mediaeval with Smallcaps and Text figures
+
+---
+
+Version 20090414
+
+Deleted some glyphs to reduce overfull hbox
+
+Changed order of some glyphs to avoid rare kerning pairs (e.g., "gj")
+
+Added:
+  * Alber (w/ italic)
+  * Alternate Gothic
+  * Aptifer (w/ italic)
+  * Dederon serif/sans  (w/ italic)
+  * Depot (w/ italic)
+  * Estilo Text (extract) (w/ italic)
+  * Freight Sans
+  * Insignia
+  * ITC Conduit
+  * Karmina (w/ italic)
+  * Leitura
+  * Magistral
+  * Neuzeit Office
+  * Precious Sans/Serif (w/ italic)
+  * Proxima Nova (w/ italic)
+  * Stalemate (w/ italic)
+  * Times Europa Office (w/ italic)
+  * Trump Gothic
+  * Trump Mediaeval Office (w/ italic)
+  * Vista Sans
+
+
+
+---
+
+Version 20090412
+
+Added:
+  * Albertina (w/ italic)
+  * Alcuin
+  * Berkeley (w/ italic)
+  * Berling (w/ italic)
+  * Bulmer (w/ italic)
+  * californian (w/ italic)
+  * Caspari (w/ italic)
+  * Charlotte (w/ italic)
+  * Comenius (w/ italic)
+  * Dante (w/ italic)
+  * Deepdene (w/ italic)
+  * Diotima (w/ italic)
+  * Documenta (w/ italic)
+  * Laudatio (w/ italic)
+  * Museo
+  * Shannon
+
+---
+
+Version 20090406
+
+Added:
+  * Flora
+  * Praxis
+  * Demos
+  * Alinea
+  * Quadrata
+  * Eras
+  * Cochin (with Nicolas as italic)
+  * DIN Mittelschrift (Din 1451)
+  * Din Neuzeit Grotesk (Din 30640)
+  * Computer Modern typewriter
+  * Sutro
+  * Rotis semi serif
+  * Thesis Mix
+Changed
+  * Corpid HMO replaced Corpid Office
+  * Thesis sans (changed back to HMO)
+  * Agenda: add "t"
+  * Cholla Sans OT replaced Cholla Sans
+  * Centaur: add italic glyphs (as Arrighi)
+
+---
+
+Version 20090322
+
+Added:
+  * Sari
+  * Serpentine
+  * Chancery
+  * Profile Pro
+  * Collis
+  * ITC Quay Sans
+  * Brazilia
+
+Changed:
+  * Base 12 serif (DTL Kernmaster'ed)
+  * Whitney OT (Original)
+  * Lexicon HMO version
+  * Arnhem (wrong kerning)
+  * Blender (features)
+  * Frutiger Serif (Cap "S" too close to edge, drop "J")
+  * Maiandra (italic?)
+  * Today Sans
+  * Uncial
+
+---
+
+Version 20090314
+
+Added:
+  * American Uncial
+  * Amplitude
+  * Antique Olive
+  * Arnhem
+  * Base Twelve serif
+  * Bell Centennial
+  * Bell Gothic
+  * Blur
+  * Brush script
+  * Consolas
+  * Fleischmann
+  * Info Office
+  * Info Display
+  * Letter Gothic
+  * Lexicon
+  * Lucida
+  * Matrix (II)
+  * Mistral Script
+  * Monaco
+  * Prokyon
+  * Quadraat serif/sans
+  * Scotch Roman
+  * Serifa
+  * Snell Roundhand
+  * Spectrum
+  * Stempel Schneidler
+  * Today Sans
+  * Walbaum
+Dropped:
+  * Lucida Bright
+
+---
+
+Version 20090308
+
+Added:
+  * Alba
+  * Dom Casual
+  * Lithod
+  * Ondine
+
+---
+
+Version 20090305
+
+Added:
+  * Blender
+  * Cholla Sans
+  * Cholla Slab
+  * Compatil Text
+  * Joanna
+  * Lucida Handwriting
+  * Mentor
+  * Ronda
+
+---
+
+Version 20090226
+
+Added:
+  * Archer
+  * Bliss
+Dropped
+  * Airstrip Four
